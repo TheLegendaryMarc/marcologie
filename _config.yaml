@@ -1,6 +1,6 @@
 podcast:
   title: Marcologie
-  description: Ein Podcast der sich aus dem Namen Marc und Anthologie zusammensetzt und verschwiedene Episoden mit verschiedenen Themen beinhalten
+  description: Ein Podcast der sich aus dem Namen Marc und Anthologie zusammensetzt und verschiedene Episoden mit verschiedenen Themen beinhaltet
   url: /podcast.xml # podcast xml url
   author: Marc Retz
   email: marc@mrcsrv.de
