@@ -1,14 +1,14 @@
 podcast:
-  title: Marcologie
+  title: Die Marcologie
   description: Ein Podcast der sich aus dem Namen Marc und Anthologie zusammensetzt und verschiedene Episoden mit verschiedenen Themen beinhaltet
   url: /podcast.xml # podcast xml url
   author: Marc Retz
   email: marc@mrcsrv.de
-  logo: [podcast logo url] # logo in 1400 – 3000 pixel
+  logo: images/cover.png # logo in 1400 – 3000 pixel
   language: de # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: Comedy # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
-  subcategory: [subcategory]
+  subcategory: Stand-Up
   type: episodic # episodic | serial
   explicit: true # true | false
   complete: no # 'yes' | 'no'
-  block: [block state] # 'yes' | 'no'
+  block: no # 'yes' | 'no'
