@@ -4,7 +4,7 @@ podcast:
   url: /podcast.xml # podcast xml url
   author: Marc Retz
   email: marc@mrcsrv.de
-  logo: images/cover.png # logo in 1400 – 3000 pixel
+  logo: images/cover.jpg # logo in 1400 – 3000 pixel
   language: de # http://www.loc.gov/standards/iso639-2/php/code_list.php
   category: Comedy # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
   subcategory: Stand-Up
